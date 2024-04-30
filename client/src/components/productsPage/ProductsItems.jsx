@@ -1,7 +1,7 @@
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom';
 
 // eslint-disable-next-line no-unused-vars
-import Pricing from "../pricing/Pricing";
+import Pricing from '../pricing/Pricing';
 
 /* eslint-disable react/prop-types */
 // const products = [
@@ -63,7 +63,7 @@ function ProductsItems({
       <div className="flex flex-shrink-0 justify-center items-center w-[150px] p-2 ">
         {/* image */}
         <Link relative="true" to={`${product_Id}`}>
-          <img className="w-[120px] lg:w-[140px]" src={`.${images}`} alt="" />
+          <img className="w-[120px] lg:w-[140px]" src={images} alt="" />
         </Link>
       </div>
       <div className="flex flex-col gap-2 text-xs">

@@ -33,7 +33,7 @@ const ImageSlider = ({ variation }) => {
           animate={{ x: `-${curr * 100}%`, transition: { type: 'tween' } }}
         >
           {variation.images.map((image, idx) => (
-            <img key={idx} src={`../../${image}`} alt={image} />
+            <img key={idx} src={image} alt='Product Images' />
           ))}
         </motion.div>
 

@@ -13,13 +13,13 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/61yyQD1KLOL._SL1500_-removebg-preview.png",
-            "./images/61OOrL6oh6L._SL1500_ (2).jpg",
-            "./images/61aaos19uXL._SL1500_.jpg",
-            "./images/61SrzBqUteL._SL1500_ (1).jpg",
-            "./images/61gAcTx3SbL._SL1500_.jpg",
-            "./images/61iDDnW-MKL._SL1500_.jpg",
-            "./images/61LpRfDazSL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313958/TBL/images/v6c7jl0dqp233yw0igom.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313957/TBL/images/v6loyqujkjhvwus93x4z.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313959/TBL/images/alo1zea96zwkh4rc5tfq.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313957/TBL/images/k2fghtcsursmpb2s69kz.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313959/TBL/images/tpkgs6hh7hsqgf53k2wb.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313959/TBL/images/dtxsgpu8oh4uy2br6lml.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313959/TBL/images/zcrprnvwzcygvzxkwhcp.jpg"
           ],
           "attributeId": 2004
         },
@@ -32,13 +32,13 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/pearl-white1.png",
-            "./images/61OOrL6oh6L._SL1500_ (2).jpg",
-            "./images/pearl-white3.jpg",
-            "./images/61SrzBqUteL._SL1500_ (1).jpg",
-            "./images/pearl-white5.jpg",
-            "./images/pearl-white6.jpg",
-            "./images/pearl-white7.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313958/TBL/images/fzeotynhjyohenlbjvuh.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313957/TBL/images/v6loyqujkjhvwus93x4z.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313958/TBL/images/l0t331qdkl85bmzaeeyu.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313957/TBL/images/k2fghtcsursmpb2s69kz.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313957/TBL/images/zzj33paqctywf48ucsxm.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313957/TBL/images/rlghr58utxbjbzbefgos.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313956/TBL/images/d7yeixahuwyjpneianrg.jpg"
           ],
           "attributeId": 2005
         }
@@ -57,15 +57,15 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/green1.png",
-            "./images/Gunmetal-Black2.jpg",
-            "./images/green3.jpg",
-            "./images/green4.jpg",
-            "./images/green5.jpg",
-            "./images/green6.jpg",
-            "./images/green7.jpg",
-            "./images/green8.jpg",
-            "./images/green9.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313954/TBL/images/jewkchpsiptohnhawffk.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313956/TBL/images/bvrt3lrwgnq4jqrioaxz.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313954/TBL/images/hfro6abfk2qjtaldndli.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313954/TBL/images/ib51uieiz94thzyd0ihq.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313954/TBL/images/ahtfaizhlcgh7kx5ifup.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313953/TBL/images/vkxtplz2bw0omm7pvr6m.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313953/TBL/images/ptakxqw2u6hlocfqbrgg.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313953/TBL/images/x0pw5hvhh8fsyyg4nkta.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313952/TBL/images/tncbvbzxk3zj9hvrkpsk.jpg"
           ],
           "attributeId": 2001
         },
@@ -78,15 +78,15 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/Gunmetal-Black1.png",
-            "./images/Gunmetal-Black2.jpg",
-            "./images/Gunmetal-Black3.jpg",
-            "./images/Gunmetal-Black4.jpg",
-            "./images/Gunmetal-Black5.jpg",
-            "./images/Gunmetal-Black6.jpg",
-            "./images/Gunmetal-Black7.jpg",
-            "./images/Gunmetal-Black8.jpg",
-            "./images/Gunmetal-Black9.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313956/TBL/images/kpocjiuiqb7owgag4ez5.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313956/TBL/images/bvrt3lrwgnq4jqrioaxz.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313955/TBL/images/z8uu7wkncscxikv4hdz3.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313955/TBL/images/dscrw26t3l2pfwvqbibv.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313955/TBL/images/yf2kfmrxlhcmz4rd69lv.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313955/TBL/images/byivm9dckliyqr42xds2.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313955/TBL/images/nsgaxtvjp6vpkmutnceq.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313954/TBL/images/e4k1isb8jmn9mr5onizo.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313954/TBL/images/khswjcohpaa8dsnqo10w.jpg"
           ],
           "attributeId": 2001
         },
@@ -99,15 +99,15 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/51deEUwKYxL._SL1500_-removebg-preview.png",
-            "./images/Gunmetal-Black2.jpg",
-            "./images/71VKWqCkDCL._SL1500_.jpg",
-            "./images/71vIEMjeO1L._SL1500_.jpg",
-            "./images/71coQl7rbkL._SL1500_.jpg",
-            "./images/615WgwgBE4L._SL1500_.jpg",
-            "./images/61sKQqI8exL._SL1500_.jpg",
-            "./images/61BBOKQWD3L._SL1500_.jpg",
-            "./images/61-vNJ7HplL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313952/TBL/images/iv7ye9nhdbgga33hvtzf.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313956/TBL/images/bvrt3lrwgnq4jqrioaxz.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313952/TBL/images/bytlql3c9lmtjtb2atqc.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313952/TBL/images/xivjqwunppqiqrjynnxa.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313952/TBL/images/sxqt4recffapcg3oagoy.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313952/TBL/images/freykvzfjo17c7itgtvu.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/lqosmchvpz5zdon5p6oa.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/he7mebkfgwwd3klylapf.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/gxa1l9lj0rbc6dhyaaby.jpg"
           ],
           "attributeId": 2002
         }
@@ -126,14 +126,14 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/5154Num4eEL._SL1500_-removebg-preview.png",
-            "./images/6137LxnVjQL._SL1500_.jpg",
-            "./images/71PTDpY2m5L._SL1500_.jpg",
-            "./images/71Hethyu0bL._SL1500_.jpg",
-            "./images/61Nlx9aApaL._SL1500_.jpg",
-            "./images/71JWNu04zlL._SL1500_.jpg",
-            "./images/71J9EZ3mcHL._SL1500_.jpg",
-            "./images/61zOyww4m7L._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/x9dduqxfgudanusastij.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/bfytbmtdy61nzqckwk6a.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313950/TBL/images/vlmsom8qjtexz32tx346.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313950/TBL/images/fq6fpq0ph9ehuzzbhlqh.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313950/TBL/images/nhkegszao68iz4nrncis.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313950/TBL/images/v0uqqynokvnzytez73vn.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313949/TBL/images/ko7xu2vft50tbbou0jfr.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313949/TBL/images/svxdspwdfbotjxhbkeyy.jpg"
           ],
           "attributeId": 2006
         },
@@ -146,14 +146,14 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/51YOeZehIKL._SL1500_-removebg-preview.png",
-            "./images/6137LxnVjQL._SL1500_.jpg",
-            "./images/71TVKToe7aL._SL1500_.jpg",
-            "./images/71a2LtxQEgL._SL1500_.jpg",
-            "./images/61vY7tiEMCL._SL1500_.jpg",
-            "./images/71RMlEvvQiL._SL1500_.jpg",
-            "./images/61YEquDY7BL._SL1500_.jpg",
-            "./images/61RLayryTUL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313949/TBL/images/vkwu8dwk1v48is9ttc9c.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/bfytbmtdy61nzqckwk6a.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313949/TBL/images/zsuqtadktwdam27us5ww.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313949/TBL/images/dqhpfsueezargixqrsdo.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313948/TBL/images/z5bbzuxxqr4vjpprugya.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313948/TBL/images/fiwl671jybmwzxxx8qfx.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313948/TBL/images/orermik80m5kp79lmus2.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313948/TBL/images/bzefsasy88a9wgjkqhob.jpg"
           ],
           "attributeId": 2007
         },
@@ -166,15 +166,15 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/51OFFGpMu0L._SL1500_-removebg-preview.png",
-            "./images/6137LxnVjQL._SL1500_.jpg",
-            "./images/71ay288rWuL._SL1500_.jpg",
-            "./images/71320wlQTRL._SL1500_.jpg",
-            "./images/61IPK8Se9nL._SL1500_.jpg",
-            "./images/7111cgCDMpL._SL1500_.jpg",
-            "./images/61ueYIpbHQL._SL1500_.jpg",
-            "./images/61O9bNb6I0L._SL1500_.jpg",
-            "./images/61-vNJ7HplL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313947/TBL/images/wgzbl6anjbwzyxd9j3e4.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/bfytbmtdy61nzqckwk6a.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313947/TBL/images/qsgwnhf7rjaielo87sef.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313947/TBL/images/zytsebdzlonnhibjcosr.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313947/TBL/images/wytekn2oldspff4rvkqf.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313947/TBL/images/nqvpdirgkigfreislqqj.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313947/TBL/images/e4tw2ytg681noieignin.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313947/TBL/images/lq0gvwlj15jqm66mahq2.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313951/TBL/images/gxa1l9lj0rbc6dhyaaby.jpg"
           ],
           "attributeId": 2008
         }
@@ -193,13 +193,13 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/51zVOjYRNuL._SL1500_-removebg-preview.png",
-            "./images/613fg2+emBL._SL1500_.jpg",
-            "./images/71B+vRrii6L._SL1500_.jpg",
-            "./images/818AWl+90qL._SL1500_.jpg",
-            "./images/71Gvv5vQsfL._SL1500_.jpg",
-            "./images/61Nnq4sVenL._SL1500_.jpg",
-            "./images/71xH8m3t1yL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313946/TBL/images/pxnou8gfmwfhcflizao5.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313946/TBL/images/y0t9wz4lybjmrghlaqrh.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313946/TBL/images/aemf3thsmeeifr7k2jsw.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313946/TBL/images/aaufpwg3gszzxjw9gzhc.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313946/TBL/images/vhtqsrkbuaug6imjyy0k.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313946/TBL/images/vact8ww1a48c21pdfnf2.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313945/TBL/images/f9ya71yegauaton4zcjj.jpg"
           ],
           "attributeId": 2009
         },
@@ -212,13 +212,13 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/618qYyG_HuL._SL1500_-removebg-preview.png",
-            "./images/61XHnB47dOL._SL1500_.jpg",
-            "./images/71RI0ca8nYL._SL1500_.jpg",
-            "./images/81T2xA++7xL._SL1500_.jpg",
-            "./images/71Ul2urjqJL._SL1500_.jpg",
-            "./images/61AeBOubG9L._SL1500_.jpg",
-            "./images/61J+jdHNvuL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313944/TBL/images/u2pmfsq3evy5w4zr5lub.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313944/TBL/images/gxvgmmwmxa9niqjkqkuv.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313944/TBL/images/yobr8mbsdyiwhner2cja.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313945/TBL/images/e2ccuisat0ueot0uupiz.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313944/TBL/images/qomx5jhug6q95ual2dtx.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313944/TBL/images/fbqljgg9mmn6fizx0ojq.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313944/TBL/images/ftz41dkwk2gdbnkn9zpa.jpg"
           ],
           "attributeId": 2010
         }
@@ -237,12 +237,12 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/61oSoHc7VtL._SL1500_-removebg-preview.png",
-            "./images/71Q0Egb3TXL._SL1500_.jpg",
-            "./images/71S6UEo0o0L._SL1500_.jpg",
-            "./images/61jxrJXUWqL._SL1500_.jpg",
-            "./images/71hdbOLOIQL._SL1500_.jpg",
-            "./images/71C+gNcZEZL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313944/TBL/images/mumzl7zvwuc1iprzlx2m.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313943/TBL/images/oz7xcucykcgnuyipordo.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313943/TBL/images/fmrcjrejefrctkgijgdp.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313943/TBL/images/xjqvnqmlqrltlhtazo4z.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313943/TBL/images/momzjvgfh5xfo4tjjlrf.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313943/TBL/images/ts4ezlckfgsuqbqelqsa.jpg"
           ],
           "attributeId": 2011
         },
@@ -255,12 +255,12 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/71DjjntHOEL._SL1500_-removebg-preview.png",
-            "./images/71B0GRyjf5L._SL1500_.jpg",
-            "./images/71AxEQ4Hk5L._SL1500_.jpg",
-            "./images/71gK8uB7A4L._SL1500_.jpg",
-            "./images/719Pj6Jit2L._SL1500_.jpg",
-            "./images/71iPxoLF0AL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313942/TBL/images/d9gutk4kdxdvygxrf1xa.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313942/TBL/images/oarvie3rnlvsdilfudyr.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313942/TBL/images/fhwvojzcpc4evphcoppw.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313942/TBL/images/ne7wnpmvkz4raz4fupcr.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313941/TBL/images/bipbfeqekt8jdscg2hyt.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313941/TBL/images/sgdxwk9tirjwrxytq5ds.jpg"
           ],
           "attributeId": 2012
         },
@@ -273,12 +273,12 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/714toZmkevL._SL1500_-removebg-preview.png",
-            "./images/71ZrQA-XXjL._SL1500_.jpg",
-            "./images/715MEJwFADL._SL1500_.jpg",
-            "./images/716yHYs-49L._SL1500_.jpg",
-            "./images/71wiFUPgNSL._SL1500_.jpg",
-            "./images/71u+qzgAb7L._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313941/TBL/images/ddezrdblgockxbisjwmy.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313941/TBL/images/fktoibk2z6w8wfoojuos.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313941/TBL/images/mg1bwr5pclxk8btft87n.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313941/TBL/images/xouioqnxwobxx5ljtxqy.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313940/TBL/images/ccsbb7tp0iizhmstf5uf.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313940/TBL/images/bwgfqphj15cgrqgoemjz.jpg"
           ],
           "attributeId": 2013
         },
@@ -291,12 +291,12 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/71531ZiXJcL._SL1500_-removebg-preview.png",
-            "./images/71MX1ua2iGL._SL1500_.jpg",
-            "./images/71NuSUiec3L._SL1500_.jpg",
-            "./images/71b7kUimKTL._SL1500_.jpg",
-            "./images/71I8I65qRZL._SL1500_.jpg",
-            "./images/71IkWyjUHhL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313940/TBL/images/kg8inw0mkw17ix0imhs8.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313940/TBL/images/w5rqwwjdcuqgpvjgl5ng.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313939/TBL/images/iy7gdjeuwa2u4wci1z6p.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313939/TBL/images/pedyzwpxmz39cb6eljlx.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313939/TBL/images/k7q2ypteeneyybvy6fla.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313939/TBL/images/nsykul4sxbb9ijnpenit.jpg"
           ],
           "attributeId": 2014
         }
@@ -315,12 +315,12 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/71gNS1OH3qL._SL1500_-removebg-preview.png",
-            "./images/71HD3XJXb2L._SL1500_.jpg",
-            "./images/61oGySvIJyL._SL1080_.jpg",
-            "./images/91yz-kbqnqL._SL1500_.jpg",
-            "./images/81RhzC5DufL._SL1500_.jpg",
-            "./images/81s1As9PT8L._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313938/TBL/images/rzgiwx9vxgv8k9xuyrgc.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313938/TBL/images/eqpewmhfzljtlodeqhqo.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313938/TBL/images/ecnzhh1fsvewscasivlj.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313939/TBL/images/cnih1yb9anwmvycckoft.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313938/TBL/images/jewqwqsicf9xzdqevene.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313938/TBL/images/kbh9ppqeqnm4lfvy6acs.jpg"
           ],
           "attributeId": 2015
         },
@@ -333,12 +333,12 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/8193DNNjZFS._SL1500_-removebg-preview.png",
-            "./images/81DLyRc-fES._SL1500_.jpg",
-            "./images/81AfUtn4g8S._SL1500_.jpg",
-            "./images/61v6fH6YGrL._SL1500_.jpg",
-            "./images/71N6u0TeZJL._SL1500_.jpg",
-            "./images/8193DNNjZFS._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313937/TBL/images/zkmgvzydjbyeip4qxlzd.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313937/TBL/images/ckkdyv9ahqjig1itdukr.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313937/TBL/images/ckkdyv9ahqjig1itdukr.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313936/TBL/images/kz4srhzyjqoetqgk6slg.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313936/TBL/images/avdtux6kps5u4ct6tb81.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313936/TBL/images/qhusuhtzddahdes2pevz.jpg"
           ],
           "attributeId": 2016
         },
@@ -351,12 +351,12 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/817LAcEEGIS._SL1500_-removebg-preview.png",
-            "./images/81ZKq5vBxOS._SL1500_.jpg",
-            "./images/81gciaaMQZS._SL1500_.jpg",
-            "./images/61o29XvnMTL._SL1500_.jpg",
-            "./images/71odZJ5fC1L._SL1500_.jpg",
-            "./images/81gciaaMQZS._SL1500_ (1).jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313936/TBL/images/e7jjylma25ts5qhhrqfi.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313935/TBL/images/yb0vymnhvjrgwmbadb7b.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313935/TBL/images/xkssovmbepi13cnrzzbq.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313935/TBL/images/enci8ytxr1he20mfhipe.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313934/TBL/images/difreslvpeg3n423k008.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313934/TBL/images/jtup7njpz57a8hpkswbk.jpg"
           ],
           "attributeId": 2017
         }
@@ -375,13 +375,13 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/71g0JM2SXvL._SL1500_-removebg-preview.png",
-            "./images/71vKb709JdS._SL1500_.jpg",
-            "./images/71dUD53WRFS._SL1500_.jpg",
-            "./images/81WoMUDD1ZS._SL1500_.jpg",
-            "./images/81+UXgH+B2S._SL1500_.jpg",
-            "./images/71h0dco-8yL._SL1500_.jpg",
-            "./images/81vMLVM8-UL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313934/TBL/images/yzcpqdblxjhzz4w2eg1r.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313933/TBL/images/zr2fsoyg4myxiyo7ttyh.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313933/TBL/images/iq28g2wmgxwbzlmg3dys.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313933/TBL/images/dthpzvauykln3qw81qhx.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313933/TBL/images/chl3frfwuei11dahjcu2.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313932/TBL/images/u7dci6ysjxvn3dhnde31.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313932/TBL/images/rotlw9gkdl1b1ifmvjlr.jpg"
           ],
           "attributeId": 2018
         },
@@ -394,15 +394,14 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/71CC5cSzqoL._SL1500_-removebg-preview.png",
-            "./images/71-aK2-eNLL._SL1500_.jpg",
-            "./images/7116b+xOqJL._SL1500_.jpg",
-            "./images/81aI1md1JYL._SL1500_.jpg",
-            "./images/81j+qS6t9FL._SL1500_.jpg",
-            "./images/81AdRRLjcpL._SL1500_.jpg",
-            "./images/714Ko68ghSL._SL1500_.jpg",
-            "./images/81vMLVM8-UL._SL1500_ (1).jpg",
-            "./images/71CC5cSzqoL._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313932/TBL/images/iqnxypf9dip2i16qw7pj.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313931/TBL/images/mirq81kyz1slnepaprtu.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313931/TBL/images/mf5mnukfmbunvio1jx96.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313933/TBL/images/rnjoj8ftoobfohi7pbuy.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313930/TBL/images/dvopfu78rh9nc7acg3ww.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313931/TBL/images/zu8wk1tfybznquh6kelu.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313930/TBL/images/xgiw6drnyajhx4aqybmi.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313930/TBL/images/cvpqdunecm0lilw0zkpa.jpg"
           ],
           "attributeId": 2019
         },
@@ -415,15 +414,14 @@
           "discountPercentage": 80,
           "stock": 10,
           "images": [
-            "./images/81nglwEY59L._SL1500_-removebg-preview.png",
-            "./images/714LadVNj2L._SL1500_.jpg",
-            "./images/71RBSzoV-2L._SL1500_.jpg",
-            "./images/918NwS8j0wL._SL1500_.jpg",
-            "./images/81KeL8m3J4L._SL1500_.jpg",
-            "./images/81EdY0S-NrL._SL1500_.jpg",
-            "./images/716zosszmiL._SL1500_.jpg",
-            "./images/81vMLVM8-UL._SL1500_ (2).jpg",
-            "./images/81nglwEY59L._SL1500_.jpg"
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313929/TBL/images/h5p20xawzgoln7ewuybr.png",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313929/TBL/images/bmvpcj0jyr431m460x4o.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313929/TBL/images/gnldndfpjerjd5ncpyzs.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313929/TBL/images/h0zamwae3gckczux7myb.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313928/TBL/images/hv1re8evigx2pmjiaicl.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313928/TBL/images/sejkieaugzwsigmipzli.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313927/TBL/images/eucwpge438ultnttrvba.jpg",
+            "https://res.cloudinary.com/ddx7todbr/image/upload/v1714313928/TBL/images/pjeclfy7zf9wv69ln2bf.jpg"
           ],
           "attributeId": 2020
         }

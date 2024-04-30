@@ -1,20 +1,20 @@
 /* eslint-disable react/prop-types */
-import { motion, useAnimate } from "framer-motion";
-import { Link } from "react-router-dom";
+import { motion, useAnimate } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
-import { ShoppingCartIcon, HeartIcon } from "@heroicons/react/24/outline";
-import PinCodeVerification from "./PinCodeVerification";
+import { ShoppingCartIcon, HeartIcon } from '@heroicons/react/24/outline';
+import PinCodeVerification from './PinCodeVerification';
 
-import ProductAssurance from "./ProductAssurance";
-import ProductSpecification from "./ProductSpecification";
-import Pricing from "../pricing/Pricing";
-import { useState } from "react";
+import ProductAssurance from './ProductAssurance';
+import ProductSpecification from './ProductSpecification';
+import Pricing from '../pricing/Pricing';
+import { useState } from 'react';
 
 //context
-import { useAuthContext } from "../../hooks/useAuthContext";
+import { useAuthContext } from '../../hooks/useAuthContext';
 
-import calculatePrice from "../calculatePrice";
-import { useCartContext } from "../../hooks/useCartContext";
+import calculatePrice from '../calculatePrice';
+import { useCartContext } from '../../hooks/useCartContext';
 
 const ProductDetails = ({
   product,
@@ -33,6 +33,7 @@ const ProductDetails = ({
   const { user } = useAuthContext();
   const { dispatch } = useCartContext();
 
+  console.log(variation);
   const addToCartHandler = async () => {
     if (!activeColor) {
       animateColor(colorScope.current, {
@@ -69,18 +70,18 @@ const ProductDetails = ({
       name: variation.name,
       category: product.category,
       price: discountedPrice,
-      size: variation.size ? activeSize : "",
+      size: variation.size ? activeSize : '',
       color: activeColor,
       image: variation.images[0],
     };
 
-    const existingCart = localStorage.getItem("cartData");
+    const existingCart = localStorage.getItem('cartData');
     if (!existingCart) {
       cartData.cartItems.push(cartItem);
       cartData.discount = variation.mrp - discountedPrice;
       cartData.totalAmount = discountedPrice;
-      localStorage.setItem("cartData", JSON.stringify(cartData));
-      dispatch({ type: "ADD_TO_CART", payload: cartData });
+      localStorage.setItem('cartData', JSON.stringify(cartData));
+      dispatch({ type: 'ADD_TO_CART', payload: cartData });
       return;
     }
 
@@ -89,8 +90,8 @@ const ProductDetails = ({
     existingParsedCart.discount += variation.mrp - discountedPrice;
     existingParsedCart.totalAmount += cartItem.price;
     existingParsedCart.cartItems.push(cartItem);
-    localStorage.setItem("cartData", JSON.stringify(existingParsedCart));
-    dispatch({ type: "ADD_TO_CART", payload: existingParsedCart });
+    localStorage.setItem('cartData', JSON.stringify(existingParsedCart));
+    dispatch({ type: 'ADD_TO_CART', payload: existingParsedCart });
   };
 
   return (
@@ -136,15 +137,15 @@ const ProductDetails = ({
               key={i}
               className={`relative flex items-center justify-center border-solid border-[1px] w-[70px] h-[70px] cursor-pointer ${
                 variation.color === activeColor
-                  ? "border-Rating"
+                  ? 'border-Rating'
                   : colorError
-                  ? "border-red"
-                  : "border-searchBar"
+                  ? 'border-red'
+                  : 'border-searchBar'
               }`}
             >
               <img
                 className="w-[60px] h-[60px]"
-                src={`../../${variation.images[0]}`}
+                src={variation.images[0]}
                 alt=""
               />
             </div>
@@ -170,10 +171,10 @@ const ProductDetails = ({
                   key={i}
                   className={`flex justify-center items-center border-solid border-[1px] h-[40px] cursor-pointer text-xs font-medium ${
                     size === activeSize
-                      ? "border-Rating"
+                      ? 'border-Rating'
                       : sizeError
-                      ? "border-red"
-                      : "border-searchBar"
+                      ? 'border-red'
+                      : 'border-searchBar'
                   }`}
                 >
                   {size}
@@ -192,15 +193,15 @@ const ProductDetails = ({
         <motion.button
           whileHover={{
             scale: 1.06,
-            boxShadow: "0px 5px 5px rgba(0, 0, 0, 0.2)",
+            boxShadow: '0px 5px 5px rgba(0, 0, 0, 0.2)',
             transition: {
-              type: "spring",
+              type: 'spring',
               stiffness: 400,
               damping: 10,
               duration: 0.3,
             },
           }}
-          whileTap={{ scale: 1, transition: { type: "tween" } }}
+          whileTap={{ scale: 1, transition: { type: 'tween' } }}
           className="group hover:bg-Rating w-[70px] h-[50px] border-solid border-[2px] border-Rating"
         >
           <HeartIcon className="group-hover:stroke-white mx-auto w-7 stroke-Rating stroke-2" />
@@ -209,15 +210,15 @@ const ProductDetails = ({
           <motion.div
             whileHover={{
               scale: 1.03,
-              boxShadow: "0px 5px 5px rgba(0, 0, 0, 0.2)",
+              boxShadow: '0px 5px 5px rgba(0, 0, 0, 0.2)',
               transition: {
-                type: "spring",
+                type: 'spring',
                 stiffness: 400,
                 damping: 10,
                 duration: 0.3,
               },
             }}
-            whileTap={{ scale: 1, transition: { type: "tween" } }}
+            whileTap={{ scale: 1, transition: { type: 'tween' } }}
           >
             <Link
               to="/cart"
@@ -232,15 +233,15 @@ const ProductDetails = ({
             onClick={addToCartHandler}
             whileHover={{
               scale: 1.03,
-              boxShadow: "0px 5px 5px rgba(0, 0, 0, 0.2)",
+              boxShadow: '0px 5px 5px rgba(0, 0, 0, 0.2)',
               transition: {
-                type: "spring",
+                type: 'spring',
                 stiffness: 400,
                 damping: 10,
                 duration: 0.3,
               },
             }}
-            whileTap={{ scale: 1, transition: { type: "tween" } }}
+            whileTap={{ scale: 1, transition: { type: 'tween' } }}
             className="flex group gap-2 justify-center items-center font-semibold w-[370px] bg-Rating text-white h-[50px] border-solid border-[2px] border-Rating"
           >
             <ShoppingCartIcon className="text-white w-7" />
