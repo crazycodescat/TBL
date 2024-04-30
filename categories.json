@@ -1,0 +1,224 @@
+{
+  "categories": [
+    {
+      "True Wireless Earbuds": [
+        {
+          "product_Id": 1,
+          "name": "boAt Airdopes Atom 81 TWS with Upto 50H Playtime, 13MM Drivers,Super Low Latency(50ms), BT v5.3(Aero Blue)",
+          "mrp": 4490,
+          "image": "./images/61yyQD1KLOL._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 2,
+          "name": "boAt Newly Launched Airdopes 141 ANC TWS Earbuds With 32 dB ANC, 42 HRS Playback, 50ms Low Latency Beast™ Mode, IWP™ Tech,Signature Sound,Quad Mics with ENx™,ASAP™ Charge,USB Type-C Port & IPX5(Green)",
+          "mrp": 5999,
+          "image": "./images/61yyQD1KLOL._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 3,
+          "name": "boAt Airdopes 170 TWS Earbuds with 50H Playtime, Quad Mics ENx™ Tech, Low Latency Mode, 13mm Drivers, ASAP™ Charge, IPX4, IWP™, Touch Controls & BT v5.3(Tranquil Blue)",
+          "mrp": 4490,
+          "image": "./images/5154Num4eEL._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 4,
+          "name": "boAt Nirvana Ion TWS Earbuds with 120 HRS Playback(24hrs/Charge), Crystal Bionic Sound with Dual EQ Modes, Quad Mics ENx™ Technology, Low Latency(60ms), in Ear Detection(Charcoal Black)",
+          "mrp": 7990,
+          "image": "./images/51zVOjYRNuL._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        }
+      ],
+      "Party Speakers": [
+        {
+          "product_Id": 5,
+          "name": "boAt Stone 620 Bluetooth Speaker with 12W RMS Stereo Sound, 10HRS Playtime, TWS Feature, IPX4, Multi-Compatibility Mode(Black)",
+          "mrp": 3990,
+          "image": "./images/61oSoHc7VtL._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 6,
+          "name": "JBL Go 2, Wireless Portable Bluetooth Speaker with Mic, Signature Sound, Vibrant Color Options with IPX7 Waterproof & AUX (Black)",
+          "mrp": 2999,
+          "image": "./images/71gNS1OH3qL._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 7,
+          "name": "JBL Flip 5 Wireless Portable Bluetooth Speaker, Signature Sound with Powerful Bass Radiator, Vibrant Colors with Rugged Design, PartyBoost, IPX7 Waterproof & Type C (Without Mic, Black)",
+          "mrp": 10999,
+          "image": "./images/71g0JM2SXvL._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 8,
+          "name": "JBL Pulse 5, Wireless Portable Bluetooth Speaker, 40 Watt, Customized 360° Lightshow Portable App, Pro Sound, Deep Bass, 12 Hours Playtime, PartyBoost, IP67 Waterproof & Dustproof (Black)",
+          "mrp": 26999,
+          "image": "./images/61g5ZuoTK2L._SL1500_-removebg-preview.png",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 9,
+          "name": "Bose SoundLink Flex Bluetooth Portable Speaker, Wireless Waterproof Speaker for Outdoor Travel-Black",
+          "mrp": 15900,
+          "image": "./images/811IL7wDDWL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 10,
+          "name": "boAt Stone 1800 Bluetooth Speaker with 90 W RMS Sound, RGB LEDs, EQ Modes, IPX6,BT v5.3,Multi- Compatibility– Aux&USB, Playback time Up to 5 Hours & Type C Charging(Camo Black)",
+          "mrp": 21990,
+          "image": "./images/615Mt56oMuL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 11,
+          "name": "boAt Stone 1800 Bluetooth Speaker with 90 W RMS Sound, RGB LEDs, EQ Modes, IPX6,BT v5.3,Multi- Compatibility– Aux&USB, Playback time Up to 5 Hours & Type C Charging(Camo Black)",
+          "mrp": 18999,
+          "image": "./images/719nhErutkL._SL1500_.jpg",
+          "discountPercentage": 80
+        }
+      ],
+      "Power Banks": [
+        {
+          "product_Id": 12,
+          "name": "MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast Power Delivery Charging | Input- Type C | Micro USB| Triple Output | Sandstone Black",
+          "mrp": 2199,
+          "image": "./images/71lVwl3q-kL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 13,
+          "name": "Redmi 20000mAh Li-Polymer Power Bank, USB Type C and Micro USB Ports, 18W Fast Charging, Low Power Mode, Black",
+          "mrp": 2999,
+          "image": "./images/61iE5piq4LL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 14,
+          "name": "Ambrane 20000mAh Premium Metallic Nano Powebank, 22.5W Super Fast Charging, Compact Pocket Size, Dual Type C & USB, Power Delivery PD & Quick Charge for iPhone, Smartphones (Powerlit XL, Blue)",
+          "mrp": 3999,
+          "image": "./images/71fwVYF8lbL._SL1500_.jpg",
+          "discountPercentage": 80
+        }
+      ],
+      "Chargers": [
+        {
+          "product_Id": 15,
+          "name": "Mi 5V Charger|10W Wall Charger with USB Cable|Compatible for Mobile, Headphones, TWS, Game Console, Power Banks|Fast Charging + Quick Data Transfer+BIS Certified|(Adapter+USB to Micro USB Cable)-Black",
+          "mrp": 599,
+          "image": "./images/61bOhEDkU7L._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 16,
+          "name": "Mi Xiaomi 120W HyperCharge Adapter Combo|Laptops, Tablets & Mobile Charger|(Adapter + USB to Superfast 6A Type C Cable)|Compatible with Redmi Note 12 Series, Mi 11 Hyper Charge, Mi 11T & Mi 12pro",
+          "mrp": 7999,
+          "image": "./images/51TkrwT0AcL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 17,
+          "name": "Samsung Original 25W Single Port, Type-C Fast Charger, (Cable not Included), White",
+          "mrp": 1699,
+          "image": "./images/21uXmiH98wL.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 18,
+          "name": "Mi Xiaomi 22.5W Fast USB Type C Charger Combo|Compatible for Mobile,Power Banks|Fast Charging|(Adapter + USB to Type C Cable)|White",
+          "mrp": 999,
+          "image": "./images/51X8GzoDlYL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 19,
+          "name": "Fast Charger for Vivo Y15 / Vivo Y 15 Fast Smartphone Mobile Charger | Hi Speed Adapter Certified Original Heavey Duty Charger 1m Micro USB Cable (2.4 Amp, White)",
+          "mrp": 799,
+          "image": "./images/61WAVluIpPL._SL1500_.jpg",
+          "discountPercentage": 80
+        }
+      ],
+      "Smart Watches": [
+        {
+          "product_Id": 20,
+          "name": "Fire-Boltt Ninja 3 Plus 1.83 Display Smartwatch Full Touch with 100+ Sports Modes with IP68, Sp02 Tracking, Over 100 Cloud Based Watch Faces (Beige)",
+          "mrp": 9999,
+          "image": "./images/61+8syDuv4L._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 21,
+          "name": "mi Smart Watch for Kids Men Boys Girls & Women Waterproof for Men - ID116 Touchscreen Bluetooth Smartwatch with Blood Pressure Tracking, Heart Rate Sensor and Basic Functionality (Black)",
+          "mrp": 1989,
+          "image": "./images/51K+Nm5-XxL.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 22,
+          "name": "Fastrack Limitless FS1 Pro Smart Watch|1.96 Super AMOLED Arched Display with 410x502 Pixel Resolution|SingleSync BT Calling|NitroFast Charging|110+ Sports Modes|200+ Watchfaces|Upto 7 Days Battery",
+          "mrp": 7559,
+          "image": "./images/81jTH37c73L._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 23,
+          "name": "Fastrack New Limitless Glide Advanced UltraVU HD Display|BT Calling|ATS Chipset|100+ Sports Modes & Watchfaces|Calculator|Voice Assistant|in-Built Games|24 * 7 Health Suite|IP68 Smartwatch(Black)",
+          "mrp": 3995,
+          "image": "./images/61JtVmcxb0L._SL1080_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 24,
+          "name": "Noise ColorFit Ultra 3 Bluetooth Calling Smart Watch with Biggest 1.96 AMOLED Display, Premium Metallic Build, Functional Crown, Gesture Control with Metallic Strap (Glossy Silver: Elite Edition)",
+          "mrp": 8999,
+          "image": "./images/71hUqNCL-zL._SL1500_.jpg",
+          "discountPercentage": 80
+        }
+      ],
+      "Mobiles": [
+        {
+          "product_Id": 25,
+          "name": "Samsung Galaxy M34 5G (Midnight Blue,6GB,128GB)|120Hz sAMOLED Display|50MP Triple No Shake Cam|6000 mAh Battery|4 Gen OS Upgrade & 5 Year Security Update|12GB RAM with RAM+|Android 13|Without Charger",
+          "mrp": 24499,
+          "image": "./images/91fonhAtoAL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 26,
+          "name": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+          "mrp": 17999,
+          "image": "./images/81fVPmkBsIL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 27,
+          "name": "Samsung Galaxy M04 Shadow Blue, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera",
+          "mrp": 11999,
+          "image": "./images/81xJ80yRRzL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 28,
+          "name": "Samsung Galaxy S23 5G (Green, 8GB, 128GB Storage)",
+          "mrp": 89999,
+          "image": "./images/61RZDb2mQxL._SL1500_.jpg",
+          "discountPercentage": 80
+        },
+        {
+          "product_Id": 29,
+          "name": "Samsung Galaxy S23 5G (Green, 8GB, 128GB Storage)",
+          "mrp": 89999,
+          "image": "./images/61RZDb2mQxL._SL1500_.jpg",
+          "discountPercentage": 80
+        }
+      ],
+      "Trimmers": [],
+      "Cables": [],
+      "Wired Headphones": []
+    }
+  ]
+}
