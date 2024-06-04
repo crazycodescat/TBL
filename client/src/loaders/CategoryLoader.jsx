@@ -1,10 +1,12 @@
-import { json } from "react-router-dom";
+import { json } from 'react-router-dom';
 
 const categoryLoader = async ({ params }) => {
   const categoryParams = params.collectionName;
 
-  const response = await fetch(`${import.meta.env.VITE_BASE_URL}/api/products/category/${categoryParams}`);
-  
+  const response = await fetch(
+    `${import.meta.env.VITE_BASE_URL}/api/products/category/${categoryParams}`
+  );
+
   if (!response.ok) {
     throw json(
       { message: `Could not fetch products for ${categoryParams}.` },
@@ -13,7 +15,7 @@ const categoryLoader = async ({ params }) => {
   }
 
   const categoryProducts = await response.json();
-  console.log(categoryProducts)
+  console.log(categoryProducts);
   return categoryProducts;
 };
 

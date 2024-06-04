@@ -4,7 +4,8 @@ import bodyParser from 'body-parser';
 import env from 'dotenv';
 import cors from 'cors';
 import mongoose from 'mongoose';
-// Create an Express application
+
+//Modules
 import productsRoute from './src/routes/productsRoute.js';
 import userRoutes from './src/routes/user.js';
 import cartRoutes from './src/routes/cart.js';

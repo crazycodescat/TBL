@@ -1,11 +1,11 @@
-import { useRef, useState } from "react";
-import { MapPinIcon } from "@heroicons/react/24/outline";
+import { useRef, useState } from 'react';
+import { MapPinIcon } from '@heroicons/react/24/outline';
 
 const PinCodeVerification = () => {
   const [visible, setVisible] = useState(false);
-  const [pin, setPin] = useState("");
+  const [pin, setPin] = useState('');
   const [notValidPinCode, setNotValidPinCode] = useState(false);
-  const [deliveryDate, setDeliveryDate] = useState("");
+  const [deliveryDate, setDeliveryDate] = useState('');
   const inputRef = useRef(null);
   // const isValidPinCode = (code) => /^\d{6}$/.test(code);
   // console.log(pin);
@@ -23,19 +23,19 @@ const PinCodeVerification = () => {
     const deliveryD = new Date(currentDate);
     deliveryD.setDate(currentDate.getDate() + 6);
     // Format the result (assuming you want it in the "dd mmm" format)
-    const options = { day: "numeric", weekday: "long", month: "short" };
+    const options = { day: 'numeric', weekday: 'long', month: 'short' };
     const formattedDeliveryDate = deliveryD.toLocaleDateString(
-      "en-US",
+      'en-US',
       options
     );
     setDeliveryDate(formattedDeliveryDate);
     setVisible(true);
     // Reset the pin code after submission
-    setPin("");
+    setPin('');
 
     // Clear the input field visually using the ref
     if (inputRef.current) {
-      inputRef.current.value = "";
+      inputRef.current.value = '';
     }
   };
 
@@ -71,7 +71,7 @@ const PinCodeVerification = () => {
       <form onSubmit={checkPinCode}>
         <div
           className={`flex gap-2 w-[300px] items-center justify-between pb-2 border-b-2 border-solid ${
-            notValidPinCode ? "border-red" : ""
+            notValidPinCode ? 'border-red' : ''
           } border-Rating`}
         >
           <div className="flex gap-2 items-center justify-start">
@@ -86,10 +86,10 @@ const PinCodeVerification = () => {
             />
           </div>
           <button
-            type={`${notValidPinCode ? "button" : "submit"}`}
+            type={`${notValidPinCode ? 'button' : 'submit'}`}
             id="check"
             className={` ${
-              notValidPinCode ? "text-red" : "text-ProfileTextColor"
+              notValidPinCode ? 'text-red' : 'text-ProfileTextColor'
             } text-sm font-semibold`}
           >
             Check
