@@ -1,10 +1,12 @@
-import { json } from 'react-router-dom';
+import { json } from "react-router-dom";
 
 const categoryLoader = async ({ params }) => {
   const categoryParams = params.collectionName;
 
   const response = await fetch(
-    `${import.meta.env.VITE_BASE_URL}/api/products/category/${categoryParams}`
+    `${
+      import.meta.env.VITE_BASE_PROD_URL
+    }/api/products/category/${categoryParams}`
   );
 
   if (!response.ok) {
